@@ -9,19 +9,19 @@
             "id": 1,
             "Cod-Pedido": 1,
             "tipo": "venda",
-            "data": "12/04/2020"
+            "data": "12/04/2020",
         },
         {
             "id": 2,
             "Cod-Pedido": 2,
             "tipo": "venda",
-            "data": "13/04/2020"
+            "data": "13/04/2020",
         },
         {
             "id": 3,
             "Cod-Pedido": 3,
             "tipo": "venda",
-            "data": "14/04/2020"
-        }
+            "data": "14/04/2020",
+        },
     ]
 }
