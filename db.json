@@ -7,21 +7,33 @@
     "data": [
         {
             "id": 1,
-            "Cod-Pedido": 1,
+            "cod.pedido": 1,
             "tipo": "venda",
-            "data": "12/04/2020"
+            "data": "12/04/2020",
+            "telefone": "4493242891",
+            "cliente" "User tal",
+            "cpf": "691.147.890-19",
+            "valor": "221,00"
         },
         {
             "id": 2,
-            "Cod-Pedido": 2,
+            "cod.pedido": 2,
             "tipo": "venda",
-            "data": "13/04/2020"
+            "data": "13/04/2020",
+            "telefone": "4493242891",
+            "cliente" "User tal",
+            "cpf": "691.147.890-19",
+            "valor": "221,00"
         },
         {
             "id": 3,
-            "Cod-Pedido": 3,
+            "cod.pedido": 3,
             "tipo": "venda",
-            "data": "14/04/2020"
+            "data": "14/04/2020",
+            "telefone": "4493242891",
+            "cliente" "User tal",
+            "cpf": "691.147.890-19",
+            "valor": "221,00"
         }
     ]
 }
