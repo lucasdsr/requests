@@ -2,7 +2,7 @@
     "metadata": {
       "total": 3,
       "page": 1,
-      "limit": 20,
+      "limit": 20
     },
     "data": [
         {
@@ -10,7 +10,7 @@
             "Cod-Pedido": 1,
             "tipo": "venda",
             "data": "12/04/2020"
-        },
+        },,
         {
             "id": 2,
             "Cod-Pedido": 2,
