@@ -12,8 +12,8 @@
             "data": "12/04/2020",
             "telefone": "4493242891",
             "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
+            "cpf": "69114789019",
+            "valor": "221"
         },
         {
             "id": 2,
@@ -22,8 +22,8 @@
             "data": "13/04/2020",
             "telefone": "4493242891",
             "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
+            "cpf": "69114789019",
+            "valor": "221"
         },
         {
             "id": 3,
@@ -32,138 +32,8 @@
             "data": "14/04/2020",
             "telefone": "4493242891",
             "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 4,
-            "cod.pedido": 4,
-            "tipo": "venda",
-            "data": "12/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 5,
-            "cod.pedido": 5,
-            "tipo": "venda",
-            "data": "13/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 6,
-            "cod.pedido": 6,
-            "tipo": "venda",
-            "data": "14/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 7,
-            "cod.pedido": 7,
-            "tipo": "venda",
-            "data": "12/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 8,
-            "cod.pedido": 8,
-            "tipo": "venda",
-            "data": "13/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 9,
-            "cod.pedido": 9,
-            "tipo": "venda",
-            "data": "14/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 10,
-            "cod.pedido": 10,
-            "tipo": "venda",
-            "data": "12/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 11,
-            "cod.pedido": 11,
-            "tipo": "venda",
-            "data": "13/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 12,
-            "cod.pedido": 12,
-            "tipo": "venda",
-            "data": "14/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 13,
-            "cod.pedido": 13,
-            "tipo": "venda",
-            "data": "12/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 14,
-            "cod.pedido": 14,
-            "tipo": "venda",
-            "data": "13/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 15,
-            "cod.pedido": 15,
-            "tipo": "venda",
-            "data": "14/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
-        },
-        {
-            "id": 16,
-            "cod.pedido": 16,
-            "tipo": "venda",
-            "data": "12/04/2020",
-            "telefone": "4493242891",
-            "cliente": "User tal",
-            "cpf": "691.147.890-19",
-            "valor": "221,00"
+            "cpf": "69114789019",
+            "valor": "220"
         }
     ]
 }
