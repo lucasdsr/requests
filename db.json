@@ -10,7 +10,7 @@
             "cod.pedido": 1,
             "tipo": "venda",
             "data": "12/04/2020",
-            "telefone": "4493242891",
+            "telefone": "554493242891",
             "cliente": "User tal",
             "cpf": "69114789019",
             "valor": "221"
@@ -20,7 +20,7 @@
             "cod.pedido": 2,
             "tipo": "venda",
             "data": "13/04/2020",
-            "telefone": "4493242891",
+            "telefone": "554493242891",
             "cliente": "User tal",
             "cpf": "69114789019",
             "valor": "221"
@@ -30,7 +30,7 @@
             "cod.pedido": 3,
             "tipo": "venda",
             "data": "14/04/2020",
-            "telefone": "4493242891",
+            "telefone": "554493242891",
             "cliente": "User tal",
             "cpf": "69114789019",
             "valor": "220"
