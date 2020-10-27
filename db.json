@@ -1,39 +1,110 @@
 {
     "metadata": {
-        "total": 20,
-        "page": 2,
-        "limit": 10
+    "total": 1,
+        "page": 1,
+        "limit": 20
     },
     "data": [
         {
             "id": 1,
-            "cod.pedido": 1,
-            "tipo": "venda",
-            "data": "12042020",
-            "telefone": "5544993242891",
-            "cliente": "User tal",
-            "cpf": "69114789019",
-            "valor": "221"
-        },
-        {
-            "id": 2,
-            "cod.pedido": 2,
-            "tipo": "venda",
-            "data": "13/04/2020",
-            "telefone": "5544993242891",
-            "cliente": "User tal",
-            "cpf": "69114789019",
-            "valor": "221"
-        },
-        {
-            "id": 3,
-            "cod.pedido": 3,
-            "tipo": "venda",
-            "data": "14/04/2020",
-            "telefone": "5544993242891",
-            "cliente": "User tal",
-            "cpf": "69114789019",
-            "valor": "220"
+            "code": 1,
+            "name": "Iphone",
+            "description": "Iphone X",
+            "business_types_id": "PRODUCT",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Eletronicos"
+                }
+            ],
+            "groups": [
+                {
+                    "id": 1,
+                    "name": "Eletronicos",
+                    "min_production_time": 10,
+                    "max_production_time": 30
+                }
+            ],
+            "barcode": "7909171473190",
+            "condition": "NEW",
+            "billing_method_id": null,
+            "paused_product": 0,
+            "accept_home_care": 0,
+            "brand": "Apple",
+            "model": "X",
+            "min_days": null,
+            "max_days": null,
+            "delivery_way": "DEFAULT",
+            "production_time": null,
+            "type": "PHYSICAL",
+            "unit_id": "PC",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "",
+                    "url": "http",
+                    "sort": 1,
+                    "active": 1
+                },
+                {
+                    "id": 2,
+                    "name": "",
+                    "deleted": 1,
+                    "url": "http",
+                    "sort": 2,
+                    "active": 1
+                }
+            ],
+            "variants": [
+                {
+                    "id": 1,
+                    "sku": "35435531",
+                    "weight": 10.2,
+                    "stock": 200,
+                    "length": 200,
+                    "width": 200,
+                    "height": 200.1,
+                    "delivery_mode": "MOTORCYCLE",
+                    "price": 350000,
+                    "price_discounted": null,
+                    "image_id": 1,
+                    "details": {
+                        "COLOR": {
+                            "label": "RED",
+                            "value": "#FFFFFF"
+                        },
+                        "Armazenamento": {
+                            "label": null,
+                            "value": "128GB"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "sku": "35435523",
+                    "weight": 10.2,
+                    "stock": 200,
+                    "length": 200,
+                    "width": 200,
+                    "height": 200.1,
+                    "delivery_mode": "MOTORCYCLE",
+                    "price": 320000,
+                    "price_discounted": null,
+                    "image_id": 2,
+                    "details": {
+                        "COLOR": {
+                            "label": "RED",
+                            "value": "#FFFFFF"
+                        },
+                        "Armazenamento": {
+                            "label": null,
+                            "value": "64GB"
+                        }
+                    }
+                }
+            ],
+            "updated_at": "2020-04-28 10:00:00"
         }
     ]
 }
+
