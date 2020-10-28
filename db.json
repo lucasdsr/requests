@@ -168,16 +168,7 @@
                     "price": 275000,
                     "price_discounted": null,
                     "image_id": 1,
-                    "details": {
-                        "COLOR": {
-                            "label": "RED",
-                            "value": "#FFFFFF"
-                        },
-                        "Armazenamento": {
-                            "label": null,
-                            "value": "128GB"
-                        }
-                    }
+                    "details": {}
                 },
                 {
                     "id": 2,
