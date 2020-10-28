@@ -6,8 +6,8 @@
     },
     "data": [
         {
-            "id": 1,
-            "code": 1,
+            "id": 3,
+            "code": 3,
             "name": "Iphone",
             "description": "Iphone X",
             "business_types_id": "PRODUCT",
@@ -106,8 +106,8 @@
             "updated_at": "2020-04-28 10:00:00"
         },
         {
-            "id": 2,
-            "code": 2,
+            "id": 4,
+            "code": 4,
             "name": "Notebook Intel",
             "description": "Notebook Intel",
             "business_types_id": "PRODUCT",
