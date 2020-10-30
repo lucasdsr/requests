@@ -87,13 +87,13 @@
                             "label": "RED",
                             "value": "red"
                         },
-                        "COLOR": {
-                            "label": "BROWN",
-                            "value": "brown"
-                        },
                         "Armazenamento": {
                             "label": null,
                             "value": "128GB"
+                        },
+                        "Tela": {
+                            "label": "18 polegadas",
+                            "value": null
                         }
                     }
                 },
