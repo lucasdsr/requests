@@ -90,10 +90,6 @@
                         "Armazenamento": {
                             "label": null,
                             "value": "128GB"
-                        },
-                        "Tela": {
-                            "label": "18 polegadas",
-                            "value": null
                         }
                     }
                 },
@@ -224,6 +220,10 @@
                         "Armazenamento": {
                             "label": null,
                             "value": "64GB"
+                        },
+                        "Tela": {
+                            "label": "18 polegadas",
+                            "value": null
                         }
                     }
                 },
