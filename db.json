@@ -85,7 +85,7 @@
                     "details": {
                         "COLOR": {
                             "label": "RED",
-                            "value": "#FFFFFF"
+                            "value": "red"
                         },
                         "Armazenamento": {
                             "label": null,
@@ -107,8 +107,8 @@
                     "image_id": 2,
                     "details": {
                         "COLOR": {
-                            "label": "RED",
-                            "value": "#FFFFFF"
+                            "label": "BLUE",
+                            "value": "blue"
                         },
                         "Armazenamento": {
                             "label": null,
@@ -214,8 +214,8 @@
                     "image_id": 2,
                     "details": {
                         "COLOR": {
-                            "label": "RED",
-                            "value": "#FFFFFF"
+                            "label": "GREEN",
+                            "value": "green"
                         },
                         "Armazenamento": {
                             "label": null,
@@ -237,8 +237,8 @@
                     "image_id": 1,
                     "details": {
                         "COLOR": {
-                            "label": "BLACK",
-                            "value": "#FFFFFF"
+                            "label": "YELLOW",
+                            "value": "yellow"
                         },
                         "Armazenamento": {
                             "label": "Flash",
