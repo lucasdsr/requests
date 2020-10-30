@@ -87,6 +87,10 @@
                             "label": "RED",
                             "value": "red"
                         },
+                        "COLOR": {
+                            "label": "BROWN",
+                            "value": "brown"
+                        },
                         "Armazenamento": {
                             "label": null,
                             "value": "128GB"
