@@ -15,12 +15,26 @@
                 {
                     "id": 1,
                     "name": "Eletronicos"
+                },
+                {
+                    "id": 2,
+                    "name": "Top de Linha"
+                },
+                {
+                    "id": 3,
+                    "name": "2020"
                 }
             ],
             "groups": [
                 {
                     "id": 1,
                     "name": "Eletronicos",
+                    "min_production_time": 10,
+                    "max_production_time": 30
+                },
+                {
+                    "id": 2,
+                    "name": "Produtos Apple",
                     "min_production_time": 10,
                     "max_production_time": 30
                 }
@@ -115,6 +129,22 @@
                 {
                     "id": 1,
                     "name": "Eletronicos"
+                },
+                {
+                    "id": 2,
+                    "name": "Top de Linha"
+                },
+                {
+                    "id": 3,
+                    "name": "Pechincha"
+                },
+                {
+                    "id": 4,
+                    "name": "Lançamentos"
+                },
+                {
+                    "id": 5,
+                    "name": "Promoção"
                 }
             ],
             "groups": [
